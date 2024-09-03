@@ -46,14 +46,23 @@ print(list)'''
 # loop list items find all items
 
 animals = ['cat','dog','elephant', 'tiger', 'tortoise']
-for animal in animals:
-    print(animal)
+# for animal in animals:
+#     print(animal)
 
 
-# Print all items by referring to their index number:
-animals = ['cat','dog','elephant', 'tiger', 'tortoise']
-a = 0
-while a < len(animals):
-    print(animals[a])
-    a += 1
+# # Print all items by referring to their index number:
+# animals = ['cat','dog','elephant', 'tiger', 'tortoise']
+# a = 0
+# while a < len(animals):
+#     print(animals[a])
+#     a += 1
     
+list = ['cat',
+        'dot',
+        'go']
+list.append('polash')
+print(list)
+
+tup =('man')
+print(tup)
+print(type(tup))
