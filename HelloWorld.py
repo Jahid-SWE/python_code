@@ -1,0 +1,1 @@
+print("Bismillah Hir RahmaNr Rahim . Hello World!")
