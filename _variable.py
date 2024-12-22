@@ -32,3 +32,6 @@ print(round(9.84))
 
 
 print(round(100.519, 4))
+
+
+print(list)
