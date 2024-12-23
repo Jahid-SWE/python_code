@@ -35,8 +35,12 @@ print(round(100.519, 4))
 
 
 print(list)
-print(list)
-print(list)
-print(list)
-print(list)
-print(list)
+
+a = ['a', 'b', 'c']
+n = [1, 2, 3]
+x = [a, n]
+print(x)
+
+print(x[0])
+
+print(x[0][1])
