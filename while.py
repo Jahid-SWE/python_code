@@ -63,4 +63,8 @@ while count < 7:
     print(count)
     count = count + 1'''
 
-i =1 
+i=9
+row= 1
+while i>=row:
+    print('*' * i)
+    i = i -1
