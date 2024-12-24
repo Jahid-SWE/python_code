@@ -63,10 +63,4 @@ while count < 7:
     print(count)
     count = count + 1'''
 
-# 7 row triangle using while loop 
-row = 7
-i=1 
-while i<=row:
-   print('*' * i)
-   i +=1
-
+i =1 
